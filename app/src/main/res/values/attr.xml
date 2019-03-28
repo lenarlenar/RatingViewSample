@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RatingCircleView">
+        <attr name="circleBorder" format="dimension" />
+        <attr name="circleThickness" format="dimension" />
+        <attr name="basisCircleColor" format="color" />
+        <attr name="ratingCircleColor" format="color" />
+        <attr name="circleSize" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="rating" format="float" />
+        <attr name="ratingName" format="string" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textVerticalDistance" format="dimension" />
+    </declare-styleable>
+</resources>
